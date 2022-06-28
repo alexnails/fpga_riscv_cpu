@@ -1,17 +1,8 @@
-# EECS 151/251A FPGA Project Skeleton for Spring 2022
+# EECS 151/251A FPGA Project
 
-## Specs
+## Specs:
 
 Please see ***[/spec/EECS151_FPGA_Project_Sp22.pdf](https://github.com/EECS150/project_skeleton_sp22/blob/master/spec/EECS151_FPGA_Project_Sp22.pdf)*** for the specifications. Click "More Pages" at the bottom to see the complete pdf.
-
-## Deadlines
-
-**Checkpoint 1:** 3-stage RISC-V (rv32ui) Processor Block Design Diagram & Questions
-
-**Checkpoint 2:** Fully functional 3-stage RISC-V (rv32ui) Processor
-
-**Checkpoint 3:** Processor Optimization
-
 
 ## Resources:
 
