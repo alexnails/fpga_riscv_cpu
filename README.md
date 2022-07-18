@@ -1,8 +1,8 @@
-# EECS 151/251A FPGA Project
+# Optimized RISC-V CPU
 
 ## Specs:
 
-Please see ***[/spec/EECS151_FPGA_Project_Sp22.pdf](https://github.com/EECS150/project_skeleton_sp22/blob/master/spec/EECS151_FPGA_Project_Sp22.pdf)*** for the specifications. Click "More Pages" at the bottom to see the complete pdf.
+Please see ***[here](https://github.com/EECS150/project_skeleton_sp22/blob/master/spec/EECS151_FPGA_Project_Sp22.pdf)*** for the specifications. Click "More Pages" at the bottom to see the complete pdf.
 
 ## Resources:
 
